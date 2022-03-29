@@ -5,7 +5,7 @@ Created on Tue Mar 29 00:20:04 2022
 
 @author: gmestres
 """
-
+import pandas as pd
 
 class Book:
     def __init__(self, order):
